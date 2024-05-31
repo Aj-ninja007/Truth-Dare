@@ -4,4 +4,4 @@
 - For playing the game,click the play button,then add player's names using add button,then hit play
 - Click on the play button and enjoy the game
 
-<a href="https://aman-abesec.github.io/Truth-Dare/">Play</a>
+<a href="https://aj-ninja007.github.io/Truth-Dare/">Play</a>
